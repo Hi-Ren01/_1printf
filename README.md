@@ -1,4 +1,4 @@
-TEAM PROJECT - 0x11.C - printf (done by Omenuwa Augustine and Hiren Osonye)
+TEAM PROJECT - 0x11.C - printf (done by Omenuwa Augustine and Onyemazuwa Osonye)
 
 Tasks
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
